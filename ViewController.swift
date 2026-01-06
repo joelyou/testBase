@@ -54,5 +54,8 @@ class ViewController: UIViewController {
     func master Add4() {
         print("master add 4")
     }
+    func devAdd1() {
+        print("dev add 1")
+    }
 }
 
