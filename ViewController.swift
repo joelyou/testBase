@@ -57,6 +57,9 @@ class ViewController: UIViewController {
     func devAdd1() {
         print("dev add 1")
     }
+    func masterAdd5() {
+        print("master add 5")
+    }
 }
 
 extension ViewController {
