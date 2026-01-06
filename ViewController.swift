@@ -59,3 +59,9 @@ class ViewController: UIViewController {
     }
 }
 
+extension ViewController {
+    func devAction(_ sender: UIButton) {
+        print("dev action")
+    }
+        
+}
