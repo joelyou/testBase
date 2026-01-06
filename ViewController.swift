@@ -51,5 +51,8 @@ class ViewController: UIViewController {
     func masterAdd3() {
         print("master add 3")
     }
+    func master Add4() {
+        print("master add 4")
+    }
 }
 
